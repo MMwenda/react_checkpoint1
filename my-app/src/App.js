@@ -8,7 +8,7 @@ import { Rate, Material, Button} from './Mats';
 import Hello from './Hello';
 
 function App() {
-  const myName = "Maurice";
+  const myName = null;
 
   return (
     <div className="d-flex flex-column align-items-center mt-5">
